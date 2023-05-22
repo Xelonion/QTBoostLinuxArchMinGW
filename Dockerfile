@@ -23,7 +23,7 @@ RUN pacman -S --noconfirm --noprogressbar \
 RUN pacman -S --noconfirm --noprogressbar mingw-w64-toolchain \
     mingw-w64-winpthreads \
     mingw-w64-binutils \
-    mingw-w64-cmake 
+    mingw-w64-cmake \
     nsis \
     mingw-w64-boost \
     mingw-w64-qt5 \
